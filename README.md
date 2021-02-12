@@ -1,5 +1,5 @@
 # WhatsUpGold-to-Ansible
-Automatically transfer WhatsUp Gold's Inventory to Ansible
+This python script should be run on Ansible control machine to transfer WhatsUp Gold's Inventory to Ansible.
 ## Prerequisites
 1. All WhatsUp Gold groups to be transferred to Ansible should be under a static group.
 
